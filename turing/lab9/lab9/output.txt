@@ -1,0 +1,9 @@
+Position: 0, Status: Q1, Tape: #1100#
+Position: 1, Status: Q2, Tape: #1100#
+Position: 2, Status: Q2, Tape: #1100#
+Position: 3, Status: Q2, Tape: #1100#
+Position: 4, Status: Q2, Tape: #1100#
+Position: 5, Status: Q2, Tape: #1100#
+Position: 6, Status: Q3, Tape: #11000#
+Position: 7, Status: Q0, Tape: #11000#
+over
